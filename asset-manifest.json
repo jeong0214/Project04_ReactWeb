@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Project04_ReactWeb/static/css/main.e27288d8.css",
+    "main.css": "/Project04_ReactWeb/static/css/main.08244e71.css",
     "main.js": "/Project04_ReactWeb/static/js/main.53e36071.js",
     "static/js/787.1fee1fb8.chunk.js": "/Project04_ReactWeb/static/js/787.1fee1fb8.chunk.js",
     "static/media/Wonju.png": "/Project04_ReactWeb/static/media/Wonju.d2de2670c43c68a2206e.png",
@@ -32,12 +32,12 @@
     "static/media/arrow-leftW.svg": "/Project04_ReactWeb/static/media/arrow-leftW.a96d6e25cc924a377f6a.svg",
     "static/media/arrow-left.svg": "/Project04_ReactWeb/static/media/arrow-left.e003cfb36e99cea63ded.svg",
     "static/media/arrow-down.svg": "/Project04_ReactWeb/static/media/arrow-down.75ce8ac937c85d8eec4d.svg",
-    "main.e27288d8.css.map": "/Project04_ReactWeb/static/css/main.e27288d8.css.map",
+    "main.08244e71.css.map": "/Project04_ReactWeb/static/css/main.08244e71.css.map",
     "main.53e36071.js.map": "/Project04_ReactWeb/static/js/main.53e36071.js.map",
     "787.1fee1fb8.chunk.js.map": "/Project04_ReactWeb/static/js/787.1fee1fb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e27288d8.css",
+    "static/css/main.08244e71.css",
     "static/js/main.53e36071.js"
   ]
 }
