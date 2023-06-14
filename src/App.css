@@ -1031,7 +1031,7 @@ footer {
 /* 검색 모달 */
 .searchModal {
   position: fixed;
-  top: 0;
+  bottom: 0;
   left: 0;
   width: 100%;
   height: 100%;
@@ -1234,16 +1234,18 @@ footer {
 .hospitalMap .mapDetail {
   display: flex;
   justify-content: space-between;
+  width: 100%;
 }
 .hospitalMap .mapDetail .mapsearchWrap {
   position: relative;
+  width: 60%;
 }
 .hospitalMap .mapDetail .mapSearch {
   position: relative;
   border-radius: 1rem;
   padding: 1rem;
-  width: 100%;
   max-width: 468px;
+  width: 100%;
   height: 580px;
   background-color: #fff;
   display: flex;
@@ -1521,7 +1523,7 @@ footer {
     height: 10px;
     max-height: 80%;
     border-radius: 1rem 1rem 0 0;
-    transition: all 1s ease-in-out;
+    transition: all 0.3s ease-in-out;
   }
   .modalContent.on {
     height: 80%;
